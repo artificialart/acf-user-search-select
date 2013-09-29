@@ -11,7 +11,7 @@ License: GPL
 */
 
 
-class acf_field_location_plugin
+class acf_field_user_search_select_plugin
 {
 	/*
 	*  Construct
@@ -69,7 +69,7 @@ class acf_field_location_plugin
 	
 }
 
-new acf_field_location_plugin();
+new acf_field_user_search_select_plugin();
 
 		
 ?>
